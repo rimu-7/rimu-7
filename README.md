@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesse</h1>
 <h3 align="center">Master's student at Changchun University of Science and Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rimu-7&label=Profile%20views&color=0e75b6&style=flat" alt="rimu-7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimu-7" alt="rimu-7" /></a> </p>
-
 - 🔭 I’m currently working on [Implementing and Design a Mushroom Detection Based on Deep Learning](https://github.com/rimu-7/Implementing-and-Design-a-Mushroom-Detection-Based-on-Deep-Learning)
 
 - 🌱 I’m currently learning **TypeScript, OpenCL, Machine Learning**
