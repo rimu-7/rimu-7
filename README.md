@@ -23,6 +23,8 @@ I’m currently working on ```https://heloshop.vercel.app/```<br>I’m currently
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="linux logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
@@ -31,9 +33,17 @@ I’m currently working on ```https://heloshop.vercel.app/```<br>I’m currently
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="adobeillustrator logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="figma logo"  />
 </div>
 
 ###
