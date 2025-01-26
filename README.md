@@ -28,11 +28,7 @@ I’m currently working on `https://heloshop.vercel.app/`<br>I’m currently lea
 
 [![](https://visitcount.itsvg.in/api?id=rimu-7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rimu-7/rimu-7/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rimu-7/rimu-7/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/me-js-bro/me-js-bro/output/github-snake.svg" />
-</picture>
+![snake animation](https://github.com/rimu-7/rimu-7/blob/output/github-contribution-grid-snake2.svg)
 
 ## 💰 You can help me by Donating
 
