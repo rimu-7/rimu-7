@@ -5,10 +5,12 @@
 </div>
 
 ###
+##
 
-# About Me:
+### About Me
 
 I’m currently working on ```https://heloshop.vercel.app/```<br>I’m currently learning `TypeScript, Machine Learning`<br>All of my projects are available at `https://github.com/rimu-7`<br>I regularly write articles on ` i'm working on my personal blog page`<br>Ask me about react, mysql, python<br>How to reach me `rrimu99@gmail.com`<br>Know about my experiences `rimu-07.vercel.app`<br>Fun fact `I'm cultivating a rich foundation of technical expertise.`
+##
 
 ###
 
@@ -68,22 +70,24 @@ I’m currently working on ```https://heloshop.vercel.app/```<br>I’m currently
 
 ###
 
-# GitHub Stats:
+## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=rimu-7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rimu-7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rimu-7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+##
 ### Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=rimu-7&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 
 [![](https://visitcount.itsvg.in/api?id=rimu-7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## buy me a coffee ☕☕
-
+##
+### buy me a coffee ☕☕
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rimumutasim)
+
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rimu-7/rimu-7/output/github-snake-dark.svg" />
