@@ -1,10 +1,11 @@
+<div align="center">
+  <img width="100%" src="./banner.png"  />
+</div>
+
 # About Me:
 
 I’m currently working on `https://heloshop.vercel.app/`<br>I’m currently learning `TypeScript, Machine Learning`<br>All of my projects are available at `https://github.com/rimu-7`<br>I regularly write articles on ` i'm working on my personal blog page`<br>Ask me about react, mysql, python<br>How to reach me `rrimu99@gmail.com`<br>Know about my experiences `rimu-07.vercel.app`<br>Fun fact `I'm cultivating a rich foundation of technical expertise.`
 
-<div align="center">
-  <img width="100%" src="./banner.png"  />
-</div>
 ## Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/__rimu_7) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rimu.mutasim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__rimu_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mutasim-fuad-rimu-36a4a8260/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/__rimu_7) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/__rimu_7) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/__rimu_7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__rimu_7)
