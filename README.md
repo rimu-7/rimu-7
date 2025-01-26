@@ -8,7 +8,7 @@
 
 # About Me:
 
-I’m currently working on `https://heloshop.vercel.app/`<br>I’m currently learning `TypeScript, Machine Learning`<br>All of my projects are available at `https://github.com/rimu-7`<br>I regularly write articles on ` i'm working on my personal blog page`<br>Ask me about react, mysql, python<br>How to reach me `rrimu99@gmail.com`<br>Know about my experiences `rimu-07.vercel.app`<br>Fun fact `I'm cultivating a rich foundation of technical expertise.`
+I’m currently working on ```https://heloshop.vercel.app/```<br>I’m currently learning `TypeScript, Machine Learning`<br>All of my projects are available at `https://github.com/rimu-7`<br>I regularly write articles on ` i'm working on my personal blog page`<br>Ask me about react, mysql, python<br>How to reach me `rrimu99@gmail.com`<br>Know about my experiences `rimu-07.vercel.app`<br>Fun fact `I'm cultivating a rich foundation of technical expertise.`
 
 ###
 
