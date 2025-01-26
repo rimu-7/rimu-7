@@ -26,7 +26,6 @@ I’m currently working on `https://heloshop.vercel.app/`<br>I’m currently lea
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=rimu-7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
