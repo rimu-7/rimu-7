@@ -35,3 +35,9 @@ I’m currently working on `https://heloshop.vercel.app/`<br>I’m currently lea
 ## 💰 You can help me by Donating
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rimumutasim)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rimu-7/rimu-7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rimu-7/rimu-7/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rimu-7/rimu-7/output/github-snake.svg" />
+</picture>
