@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img width="100%" src="https://github.com/me-js-bro/me-js-bro/blob/main/banner.png"  />
+  <img width="100%" src="https://github.com/rimu-7/rimu-7/blob/main/banner.png"  />
 </div>
 
 ###
