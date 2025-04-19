@@ -9,8 +9,8 @@
 
 ### About Me
 
-I’m currently working on [Heloshop](https://heloshop.vercel.app/)  
-I’m currently learning `TypeScript` `Machine Learning`  
+I’m currently working on [Wireless Connection Secret Key Extraction-(for my master's thesis)]  
+I’m currently learning `TypeScript` ` Wireless Connection Secret Key Extraction`  
 All of my projects are available at [GitHub](https://github.com/rimu-7)  
 I regularly write articles on [my personal blog page](i'm working on my personal blog page)  
 Ask me about react, mysql, python  
