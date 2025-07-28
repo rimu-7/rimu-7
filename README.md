@@ -9,13 +9,12 @@
 
 ### About Me
 
-I’m currently working on [Wireless Connection Secret Key Extraction-(for my master's thesis)],   [The Creative Home]()
-I’m currently learning `TypeScript` ` Wireless Connection Secret Key Extraction`  
-All of my projects are available at [GitHub](https://github.com/rimu-7)  
-I regularly write articles on [my personal blog page](i'm working on my personal blog page)  
-Ask me about react, mysql, python  
-How to reach me [Email](mailto:sdjfhbsdh@gmail.com)  
-Know about my experiences [Portfolio](https://rimu-07.vercel.app)  
+I’m currently working on `[Wireless Connection Secret Key Extraction-(for my master's thesis)]` &  [Background-Magic🦄🪄](https://backgroundmagic.netlify.app/)
+I’m currently learning `NEXT.js with TypeScript` ` Wireless Connection Secret Key Extraction with Mchine Learning`  
+
+Ask me about React.js, mysql, Next.js  
+How to reach me [Email📬](mailto:rimux0x@qq.com)  
+Know about my experiences [Portfolio🔗](https://rimubhai.netlify.app)  
 Fun fact ``I'm cultivating a rich foundation of technical expertise.``
 ##
 
@@ -26,11 +25,15 @@ Fun fact ``I'm cultivating a rich foundation of technical expertise.``
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="next.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="linux logo"  />
   <img width="12" />
