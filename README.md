@@ -9,7 +9,7 @@
 
 ### About Me
 
-I’m currently working on `[Wireless Connection Secret Key Extraction-(for my master's thesis)]` &  [Background-Magic🦄🪄](https://backgroundmagic.netlify.app/)
+I’m currently working on `[Wireless Connection Secret Key Extraction-(for my master's thesis)]` & i just finished this project [EasyUrl🦄🪄](https://easyurl-online.netlify.app/)
 I’m currently learning `NEXT.js with TypeScript` ` Wireless Connection Secret Key Extraction with Mchine Learning`  
 
 Ask me about React.js, mysql, Next.js  
