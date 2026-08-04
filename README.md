@@ -1,103 +1,34 @@
-###
-
 <div align="center">
-  <img width="100%" src="https://github.com/rimu-7/rimu-7/blob/main/banner.png"  />
+  <img width="100%" src="https://github.com/rimu-7/rimu-7/blob/main/banner.png" alt="Profile Banner" />
 </div>
 
-###
-##
-
-### About Me
-
-I’m currently working on `[Wireless Connection Secret Key Extraction-(for my master's thesis)]` & i just finished this project [EasyUrl🦄🪄](https://easyurl-online.netlify.app/)
-I’m currently learning `NEXT.js with TypeScript` ` Wireless Connection Secret Key Extraction with Mchine Learning`  
-
-Ask me about React.js, mysql, Next.js  
-How to reach me [Email📬](mailto:rimux0x@qq.com)  
-Know about my experiences [Portfolio🔗](https://rimubhai.netlify.app)  
-Fun fact ``I'm cultivating a rich foundation of technical expertise.``
-##
-
-###
+<br />
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="next.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="figma logo"  />
+  <h1>Mutasim Fuad Rimu</h1>
+  <p><b>Cybersecurity Researcher | Deep Learning Specialist | Full-Stack Software Engineer</b></p>
+  <p>
+    <a href="https://www.linkedin.com/in/mutasim-fuad-rimu-36a4a8260/" target="_blank">LinkedIn</a> • 
+    <a href="https://rimubhai.com" target="_blank">Portfolio</a> • 
+    <a href="https://www.facebook.com/rimumutasim" target="_blank">Facebook</a> • 
+    <a href="https://www.instagram.com/__rimu_7" target="_blank">Instagram</a>
+  </p>
 </div>
 
-###
+# About Me
 
+I recently received my Master’s degree from Changchun University of Science and Technology (CUST) in 2026, where my research was conducted under the supervision of Prof. Chunyi Chen. Prior to this, I earned my Bachelor’s degree in Computer Science and Technology from Nanjing University of Information Science and Technology (NUIST) in 2024, under the supervision of Prof. Lou Qianda. My academic work centers on Cybersecurity and Physical Layer Security, specifically optimizing secret key generation in FDD systems utilizing Deep Learning architectures. Parallel to my academic research, I professionally architect secure, privacy-centric web applications and explore the synergy between neural networks and secure communication protocols.
 
+Feel free to drop me an email if you want to collaborate or have a discussion!
+
+### Research Interests
+
+- **Physical-layer security**, especially secret key generation in FDD systems: [Master's Thesis '26]
+- **Deep Learning Architectures** (ResNet, 1D-CNNs, Applied ML): [Cognizance Journal '24]
+- **Secure Protocol & Architecture Design** (Currently focused on)
+  - Synergy between Neural Networks and Secure Communications
+  - Privacy-Centric Full-Stack Application Architecture
 
 <div align="center">
-  <a href="https://www.facebook.com/rimumutasim" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/__rimu_7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mutasim-fuad-rimu-36a4a8260/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rimu-7.rimu-7&"  />
 </div>
-
-###
-##
-
-### GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=rimu-7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rimu-7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rimu-7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-##
-### Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=rimu-7&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
-
-[![](https://visitcount.itsvg.in/api?id=rimu-7&icon=0&color=0)](https://visitcount.itsvg.in)
-##
-### buy me a coffee ☕☕
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rimumutasim)
-
-##
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rimu-7/rimu-7/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rimu-7/rimu-7/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rimu-7/rimu-7/output/github-snake.svg" />
-</picture>
